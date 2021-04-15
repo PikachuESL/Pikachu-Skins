@@ -30,6 +30,6 @@ This gist will contain the main skins that I use.
 -
 ![](http://puu.sh/pqTz5/c9ba156a55.jpg)
 
-#[Pika Skin DT](https://www.dropbox.com/s/igy9q5k6k9rxzj0/Pika%20Skin%20DT.osk?dl=0)
+#[Pika Skin Dt](https://www.dropbox.com/s/igy9q5k6k9rxzj0/Pika%20Skin%20DT.osk?dl=0)
 
 ![](https://puu.sh/uRoAT/fe9d5a88ce.jpg)
