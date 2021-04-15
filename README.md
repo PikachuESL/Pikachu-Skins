@@ -6,7 +6,7 @@ This gist will contain the main skins that I use.
 // I have like a billion of skins lying around, but those in this compilation will be the ones I mainly use.
 - Please PM me or leave me a message if none of the links are working.
 
-#[Pika Skin](https://www.dropbox.com/s/dvms8i8ku08x0pu/Pika%20Skin.osk?dl=0)
+# [Pika Skin](https://www.dropbox.com/s/dvms8i8ku08x0pu/Pika%20Skin.osk?dl=0)
 - main skin at the moment
 ![](http://puu.sh/pqTf7/e2381657a8.jpg)
 
